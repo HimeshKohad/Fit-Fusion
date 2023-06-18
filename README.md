@@ -69,6 +69,10 @@ Whether you are looking for strength training, cardio training, fat burning, or 
 
 5. Open your browser and visit `http://localhost:3000` to view the FitFusion landing page.
 
+<br>
+
+- Check out the [Live Demo](https://fitfusion.pages.dev/)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to FitFusion, please follow these steps:
