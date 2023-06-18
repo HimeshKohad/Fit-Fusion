@@ -69,9 +69,13 @@ Whether you are looking for strength training, cardio training, fat burning, or 
 
 5. Open your browser and visit `http://localhost:3000` to view the FitFusion landing page.
 
-<br>
+## Learn More
 
-- Check out the [Live Demo](https://fitfusion.pages.dev/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Contributing
 
