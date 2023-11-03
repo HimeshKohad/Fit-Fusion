@@ -19,8 +19,6 @@ Whether you are looking for strength training, cardio training, fat burning, or 
 
 - HTML
 - CSS
-- Flexbox
-- CSS Grid
 - JavaScript
 - ReactJS
 - EmailJS
