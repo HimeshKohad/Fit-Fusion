@@ -20,8 +20,8 @@ Whether you are looking for strength training, cardio training, fat burning, or 
 - HTML
 - CSS
 - JavaScript
-- ReactJS
-- EmailJS
+- [React.js](https://reactjs.org/)
+- [emailJS](https://www.emailjs.com/)
 - npm
 - Yarn
 
