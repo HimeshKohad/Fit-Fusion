@@ -20,10 +20,10 @@ Whether you are looking for strength training, cardio training, fat burning, or 
 - HTML
 - CSS
 - JavaScript
-- [React.js](https://reactjs.org/)
-- [emailJS](https://www.emailjs.com/)
-- npm
-- Yarn
+- [React.js](https://react.dev/learn)
+- [emailJS](https://www.emailjs.com/docs/)
+- [npm](https://docs.npmjs.com/about-npm)
+- [Yarn](https://yarnpkg.com/getting-started)
 
 ## Features
 
